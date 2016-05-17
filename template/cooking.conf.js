@@ -1,4 +1,4 @@
-var cooking = require('cooking')
+var cooking = require('cooking');
 
 cooking.set({
   entry: './src/app.js',
@@ -12,6 +12,7 @@ cooking.set({
   clean: true,
 
   extends: []
-})
+});
 
-module.exports = cooking.resovle()
+module.exports = cooking.resolve();
+

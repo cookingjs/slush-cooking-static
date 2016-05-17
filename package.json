@@ -1,0 +1,24 @@
+{
+  "name": "slush-cooking-static",
+  "version": "0.0.1",
+  "description": "A static site template for cooking.",
+  "keywords": [
+    "slush-cooking-static",
+    "cooking",
+    "slushgenerator"
+  ],
+  "scripts": {
+    "dev": "cooking watch",
+    "dist": "cooking build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:cookingjs/slush-cooking-static.git/slush-cooking-static.git"
+  },
+  "homepage": "git@github.com:cookingjs/slush-cooking-static.git/slush-cooking-static#readme",
+  "bugs": {
+    "url": "git@github.com:cookingjs/slush-cooking-static.git/slush-cooking-static/issues"
+  },
+  "author": "long.zhang@ele.me",
+  "license": "MIT"
+}
